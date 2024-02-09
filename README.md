@@ -52,9 +52,6 @@ The code is divided into four main Python files:
 
 We welcome contributions to this project! Feel free to fork the repository, make improvements, and submit pull requests.
 
-### License:
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Additional notes:
 
